@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ridam 
-- 👀 I’m interested in CS, Math
+- 👀 I’m interested in CS and Machine Learning
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
